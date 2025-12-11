@@ -99,7 +99,7 @@ em http://192.168.1.3/d18e1e22becbd915b45e0e655429d487/wp-content/uploads/Talk%2
 
 Ao enviar qualquer string, a resposta aparece na tela - mas o interessante está escondido nos cookies. Existe um chamado "Password" com o valor "M4k3Ad3a1"
 
-![[Beelzebub-20240118100050606.webp|727]]
+![Beelzebub-20240118100050606](attachments/Beelzebub-20240118100050606.webp)
 
 ### Finalmente, ssh
 
